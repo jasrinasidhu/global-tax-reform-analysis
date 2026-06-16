@@ -2,7 +2,7 @@
 
 AI-driven analysis of how tax structures affect entrepreneurship across 196 countries using 43 years of World Bank data (1980–2022).
 
-Completed as part of a Master of Business Analytics Capstone at Sunway University (April 2026).
+Completed as part of a Master of Business Analytics Capstone at Sunway University (May 2026).
 
 ## Key Results
 - **XGBoost Regressor:** R² of 0.8437 — 215% improvement over the OLS baseline
